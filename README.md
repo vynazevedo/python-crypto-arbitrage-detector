@@ -106,17 +106,6 @@ PAIRS_TO_MONITOR = [  # Pares para monitorar
 - [ ] Logs detalhados de oportunidades
 - [ ] Integração com mais exchanges
 
-## 👨‍💻 Autor
-
-Seu Nome
-- LinkedIn: [seu-linkedin](https://www.linkedin.com/in/seu-perfil)
-- Portfolio: [seu-site](https://seu-site.com)
-- Email: seu.email@dominio.com
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
-
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para:

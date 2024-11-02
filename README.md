@@ -1,4 +1,4 @@
-# 🤖 crypto-arbitrage-detector
+# crypto-arbitrage-detector
 
 > Bot de detecção de oportunidades de arbitragem em criptomoedas na exchange Kraken
 

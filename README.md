@@ -2,7 +2,7 @@
 
 > Bot de detecção de oportunidades de arbitragem em criptomoedas na exchange Kraken
 
-## 📊 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto foi desenvolvido como parte do meu portfólio para demonstrar habilidades em:
 - Desenvolvimento Python
@@ -11,7 +11,7 @@ Este projeto foi desenvolvido como parte do meu portfólio para demonstrar habil
 - Trading algorítmico
 - Análise de mercado cripto
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - ✅ Conexão em tempo real com a Kraken via WebSocket
 - ✅ Monitoramento de múltiplos pares de trading
@@ -28,7 +28,7 @@ Este projeto foi desenvolvido como parte do meu portfólio para demonstrar habil
 - JSON
 - Kraken WebSocket API
 
-## 📈 Como Funciona
+## Como Funciona
 
 O bot monitora continuamente os preços de diferentes pares de criptomoedas na Kraken e identifica oportunidades de arbitragem triangular. Por exemplo:
 ```
@@ -42,7 +42,7 @@ EUR -> BTC -> ETH -> EUR
 4. Analisa rotas de arbitragem potenciais
 5. Calcula possíveis lucros
 
-## 💻 Instalação
+## Instalação
 
 ```bash
 # Clone o repositório
@@ -58,7 +58,7 @@ pip install -r requirements.txt
 python kraken_arbitrage_bot.py
 ```
 
-## 🔍 Exemplos de Uso
+## Exemplos de Uso
 
 ```python
 # Iniciar o bot
@@ -69,7 +69,7 @@ bot.start()
 # Oportunidade de Arbitragem Detectada na Rota ['EUR', 'BTC', 'ETH', 'EUR']: Lucro potencial de 12.34 EUR
 ```
 
-## 📝 Configuração
+## Configuração
 
 O bot pode ser configurado através do arquivo `config.py`:
 ```python
@@ -84,20 +84,20 @@ PAIRS_TO_MONITOR = [  # Pares para monitorar
 ]
 ```
 
-## ⚠️ Disclaimers
+## Disclaimers
 
 - Este é um projeto demonstrativo para portfólio
 - Não é recomendado para uso em trading real sem modificações
 - Não leva em consideração taxas de trading ou slippage
 - Necessita de otimizações para uso em produção
 
-## 🔒 Segurança
+## Segurança
 
 - Não armazena chaves de API
 - Utiliza apenas dados públicos da exchange
 - Implementa reconnect automático em caso de desconexão
 
-## 🛠️ Melhorias Futuras
+## Melhorias Futuras
 
 - [ ] Suporte a mais pares de trading
 - [ ] Implementação de backtesting
@@ -106,7 +106,7 @@ PAIRS_TO_MONITOR = [  # Pares para monitorar
 - [ ] Logs detalhados de oportunidades
 - [ ] Integração com mais exchanges
 
-## 🤝 Contribuições
+## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para:
 - Reportar bugs
@@ -114,4 +114,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 - Enviar pull requests
 
 ---
-> 🎯 Este projeto faz parte do meu portfólio pessoal e demonstra minhas habilidades em desenvolvimento Python, integração com APIs e análise de dados em tempo real.
+> Este projeto faz parte do meu portfólio pessoal e demonstra minhas habilidades em desenvolvimento Python, integração com APIs e análise de dados em tempo real.
